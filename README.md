@@ -107,14 +107,5 @@ This LMS aims to streamline the educational experience for both students and edu
 
 ---
 
-## Acknowledgements
-This project was made possible with the contributions and collaboration of the team:
-- Hazem Hamada
-- Omar Hazem
-- Basil Essam
-- Eslam Genedy
-
----
-
 ## License
 This project is licensed under the MIT License.
