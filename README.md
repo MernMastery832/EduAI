@@ -1,4 +1,6 @@
 # EDUAI
+![WhatsApp Image 2024-11-01 at 4 12 45 PM](https://github.com/user-attachments/assets/5873c553-d5ee-4e23-9420-6d04b222544b)
+
 # EDUAI Enhanced with Machine Learning
 
 ## 📝 Table of Contents
@@ -59,6 +61,13 @@ This repository includes the front-end and back-end components but does not incl
 ---
 
 ## Snapshots
+![WhatsApp Image 2024-11-01 at 4 16 23 PM](https://github.com/user-attachments/assets/25f50dc2-6fb4-4d27-8aa2-333f031b0af9)
+![WhatsApp Image 2024-11-01 at 4 14 36 PM](https://github.com/user-attachments/assets/5f10e867-a10a-44cd-baac-473d3a6c840a)
+![WhatsApp Image 2024-11-01 at 4 15 12 PM](https://github.com/user-attachments/assets/7fd9bfc5-bad8-4431-9d44-f42d4756073d)
+![WhatsApp Image 2024-11-01 at 4 14 49 PM](https://github.com/user-attachments/assets/2ac95777-8129-453b-8399-eb6f9e84a22c)
+![WhatsApp Image 2024-11-01 at 4 12 45 PM](https://github.com/user-attachments/assets/89f75d13-0cb8-42c4-b06f-463c94267a1c)
+![WhatsApp Image 2024-11-01 at 3 45 31 PM](https://github.com/user-attachments/assets/3676c6af-5f3e-400a-bd34-1f25d2c5b2b1)
+![WhatsApp Image 2024-11-01 at 4 14 05 PM](https://github.com/user-attachments/assets/69774235-2489-4c37-9c8e-88a83f4679cc)
 
 ### Login Screen
 ![Login Screen](login_screen.png)
