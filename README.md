@@ -68,39 +68,6 @@ This repository includes the front-end and back-end components but does not incl
 ![WhatsApp Image 2024-11-01 at 4 12 45 PM](https://github.com/user-attachments/assets/89f75d13-0cb8-42c4-b06f-463c94267a1c)
 ![WhatsApp Image 2024-11-01 at 4 16 23 PM](https://github.com/user-attachments/assets/25f50dc2-6fb4-4d27-8aa2-333f031b0af9)
 
-
-### Login Screen
-![Login Screen](login_screen.png)
-
-### Courses Screen
-![Courses Screen](courses_screen.png)
-
-### Lectures Screen
-![Lectures Screen](lectures_screen.png)
-
-### Modules Screen
-![Modules Screen](modules_screen.png)
-
-### Assessment Creation Screen
-![Assessment Creation](assessment_creation.png)
-
-### Assessment View Screen
-![Assessment View](assessment_view.png)
-
-### Exam Taking Screen
-![Exam Taking](exam_taking.png)
-
-### Grading Screen
-![Grading Screen](grading_screen.png)
-
-### Grade Book Screen
-![Grade Book](grade_book.png)
-
-### Course Settings Screen
-![Course Settings](course_settings.png)
-
----
-
 ## My Contributions
 - Developed the LMS structure and front-end interface using React and Ant Design.
 - Implemented user authentication and role-based authorization.
