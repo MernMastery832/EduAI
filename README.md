@@ -1,5 +1,5 @@
-# LMS
-# LMS Enhanced with Machine Learning
+# EDUAI
+# EDUAI Enhanced with Machine Learning
 
 ## 📝 Table of Contents
 - [About The Project](#about-the-project)
@@ -99,7 +99,7 @@ This repository includes the front-end and back-end components but does not incl
 - Created notification system for announcements and deadlines.
 - Collaborated on the implementation of machine learning-powered auto-grading and cheating detection systems.
 - Designed the grading module for instructors and contributed to the grade book interface.
-
+  
 ---
 
 ## Impact
