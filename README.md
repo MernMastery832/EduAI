@@ -23,24 +23,27 @@ This repository includes the front-end and back-end components but does not incl
 
 ## Tech Stack
 
+
+## 🚀 Tech Stack
+
 ### Frontend
-- **React**
-- **Redux**
-- **Ant Design**
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) React
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) Redux
+- ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white) Ant Design
 
 ---
 
 ### Backend
-- **Node.js**
-- **MongoDB**
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) Node.js
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) MongoDB
 
 ---
 
 ### Machine Learning Integration
-- **Plagiarism Detection**
-- **Auto Grading (Essay Questions)**
-- **Cheating Detection (Webcam & Microphone)**
-- **Text Moderation**
+- ![Plagiarism Detection](https://img.shields.io/badge/Plagiarism%20Detection-FFA500?style=flat&logo=python&logoColor=white) Plagiarism Detection
+- ![Auto Grading](https://img.shields.io/badge/Auto%20Grading-FFA500?style=flat&logo=python&logoColor=white) Auto Grading (Essay Questions)
+- ![Cheating Detection](https://img.shields.io/badge/Cheating%20Detection-FFA500?style=flat&logo=python&logoColor=white) Cheating Detection (Webcam & Microphone)
+- ![Text Moderation](https://img.shields.io/badge/Text%20Moderation-FFA500?style=flat&logo=python&logoColor=white) Text Moderation
 
 ---
 
